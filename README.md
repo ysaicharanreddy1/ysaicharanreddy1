@@ -8,7 +8,8 @@ I'm a Computer Science student at KLU with a strong interest in building small M
 
 I have hands-on knowledge of discrete mathematics, linear algebra and calculus, probability, and engineering-level statistics. You’re welcome to contact me or explore my LinkedIn or resume to learn more about my work.
 
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1TiYqB6X18nLiQJG4O66oCQIS4rpzeZyD/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1TiYqB6X18nLiQJG4O66oCQIS4rpzeZyD/view)
+
 
 ## Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysaicharanreddy1)
