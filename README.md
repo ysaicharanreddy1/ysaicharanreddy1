@@ -12,7 +12,7 @@ I have hands-on knowledge of discrete mathematics, linear algebra and calculus, 
 
 
 ## Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&labelColor=4A4A4A&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysaicharanreddy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&labelColor=4A4A4A&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
 
 ---
 
