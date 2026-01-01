@@ -17,4 +17,4 @@ I have hands-on knowledge of discrete mathematics, linear algebra and calculus, 
 
 ---
 
-Thanks for visiting! 
+Happy Coding! 
