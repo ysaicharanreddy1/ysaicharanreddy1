@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm into coding and development
 
 ## About me
-I'm a Computer Science student at KLU with a strong interest in building Web related projects, developing web pages, and learning ML. I have hands-on experience with C, Java, Python, HTML, CSS, and SQL. You can also check out my resume for more details. I'm currently focusing on improving my Java skills and have a growing interest in Data Structures and Algorithms.
+I'm a Computer Science student at KLU with a strong interest in building Web related projects, and learning ML. I have hands-on experience with C, Java, Python, HTML, CSS, and SQL. You can also check out my resume for more details. I'm currently focusing on improving my Java skills and have a growing interest in Data Structures and Algorithms.
 
 I have hands-on knowledge of discrete mathematics, linear algebra and calculus, probability, and engineering-level statistics. You’re welcome to contact me or explore my LinkedIn or resume to learn more about my work.
 
