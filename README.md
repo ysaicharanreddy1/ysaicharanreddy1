@@ -9,7 +9,7 @@ I have knowledge of discrete mathematics, linear algebra and calculus, probabili
 
 
 ## Let's Connect 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-C9A227?style=flat&labelColor=C9A227&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--C9A227?style=flat&labelColor=C9A227&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
 
 [![LeetCode](https://img.shields.io/badge/LeetCode--000000?style=flat&labelColor=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaecilius/)
 
