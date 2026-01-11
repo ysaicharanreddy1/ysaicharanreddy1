@@ -10,7 +10,7 @@ I have knowledge of discrete mathematics, linear algebra and calculus, probabili
 
 ## Let's Connect 
 • [![LinkedIn](https://img.shields.io/badge/LinkedIn--1C1C1C?style=flat&labelColor=C9A227&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
-• [![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-000000?style=flat&labelColor=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaecilius/)
+• [![LeetCode](https://img.shields.io/badge/LeetCode--000000?style=flat&labelColor=FFA116&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaecilius/)
 • [![Codeforces](https://img.shields.io/badge/CF-loptr-005EFF?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/loptr)
 • [![CodeChef](https://img.shields.io/badge/CodeChef-Competitive_Coding-5B4638?style=flat&labelColor=F5F5F5&logo=codechef&logoColor=5B4638)](https://www.codechef.com/users/loptr)
 • [![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=flat&labelColor=4A4A4A&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
