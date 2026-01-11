@@ -1,4 +1,4 @@
-# Hi, I'm Sai Charan Reddy 
+# Hi there, I'm Sai Charan 
 
 ## About Me
 I'm a Computer Science student at KLU with a strong interest in building Web related projects, ML projects, and learning ML. You can also check out my resume for more details. I'm currently improving my skills in Java and DSA in Java.
@@ -17,4 +17,4 @@ I have knowledge of discrete mathematics, linear algebra and calculus, probabili
 
 ---
 
-Happy Coding! 
+Thanks for visiting my profile! 
