@@ -5,7 +5,7 @@ I'm a Computer Science student at KLU with a strong interest in building Web rel
 
 I have knowledge of discrete mathematics, linear algebra and calculus, probability, engineering-level statistics, and Mathematical Optimization. You’re welcome to contact me or explore my LinkedIn or resume to learn more about my work.
 
-• [![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)](https://drive.google.com/file/d/1fZV1s5FD_qy7Aumy-6vvNNg46vow5ZcA/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)](https://drive.google.com/file/d/1fZV1s5FD_qy7Aumy-6vvNNg46vow5ZcA/view)
 
 
 ## Let's Connect 
