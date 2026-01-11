@@ -17,7 +17,7 @@ I have knowledge of discrete mathematics, linear algebra and calculus, probabili
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/loptr)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mail-D14836?style=flat&labelColor=4A4A4A&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
 
 
 ---
