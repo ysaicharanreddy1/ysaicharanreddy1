@@ -10,15 +10,10 @@ I have knowledge of discrete mathematics, linear algebra and calculus, probabili
 
 ## Let's Connect 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
-
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/kaecilius/)
-
 [![Codeforces](https://img.shields.io/badge/Codeforces-005EFF?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/loptr)
-
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/loptr)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
-
 
 ---
 
