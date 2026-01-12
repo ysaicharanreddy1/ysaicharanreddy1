@@ -5,7 +5,7 @@ Computer Science student at KL University (KLU) interested in Web Development an
 
 Improving skills in Java and Data Structures & Algorithms
 
-Strong foundation in core mathematics (Discrete Math, Linear Algebra, Probability, Statistics)
+Strong foundation in core mathematics (Discrete Math, Linear Algebra, Calculus, Probability, Statistics)
 
 For more details, please check my resume or LinkedIn profile
 
