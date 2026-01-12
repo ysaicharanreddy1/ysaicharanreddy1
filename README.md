@@ -1,9 +1,13 @@
 # Hi there, I'm Sai Charan 
 
 ## About Me
-I'm a Computer Science student at KLU with a strong interest in building Web related projects, ML projects, and learning ML. You can check out my resume for more details. I'm currently improving my skills in Java and DSA.
+Computer Science student at KL University (KLU) interested in Web Development and Machine Learning.
 
-I have knowledge of discrete mathematics, linear algebra and calculus, probability, engineering-level statistics, and Mathematical Optimization.
+Improving skills in Java and Data Structures & Algorithms.
+
+Strong foundation in core mathematics (Discrete Math, Linear Algebra, Calculus, Probability, Statistics).
+
+For more details, please check my resume or LinkedIn profile.
 
 [![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)](https://drive.google.com/file/d/1fZV1s5FD_qy7Aumy-6vvNNg46vow5ZcA/view)
 
