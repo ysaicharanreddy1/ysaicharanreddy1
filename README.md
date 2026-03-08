@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Charan 
+👋🏻👋🏻# Hi there, I'm Sai Charan 
 
 ## About Me
 I am a Computer Science student at KL University. I am actively improving my skills in Java and Data Structures & Algorithms, while building a solid technical foundation. I have a strong passion and keen interest in Machine Learning.
