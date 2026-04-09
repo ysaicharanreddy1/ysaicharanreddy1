@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Charan Reddy 👋🏻 
 
 ## About Me
-I am a Computer Science student at KL University. I am actively improving my skills in Java and Data Structures & Algorithms, while building a solid technical foundation. I have a keen interest in Machine Learning.
+I am a Computer Science student at KL University. I am actively improving my skills in Java and Data Structures & Algorithms, while building a solid technical foundation.
 
 In addition, I have a strong grasp of core mathematics, computer networks and operating systems. For further details, please refer to my resume or LinkedIn profile.
 
