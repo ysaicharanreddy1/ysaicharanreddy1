@@ -3,7 +3,7 @@
 ## About Me
 I am a Computer Science student at KL University. I am actively improving my skills in Java and Data Structures & Algorithms, while building a solid technical foundation.
 
-In addition, I have a strong grasp of core mathematics, computer networks and operating systems. For further details, please refer to my resume or LinkedIn profile.
+In addition, I have a good grasp of core mathematics, computer networks and operating systems. For further details, please refer to my resume or LinkedIn profile.
 
 <!-- [![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)](https://drive.google.com/file/d/1fZV1s5FD_qy7Aumy-6vvNNg46vow5ZcA/view) -->
 
