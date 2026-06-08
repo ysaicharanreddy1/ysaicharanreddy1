@@ -14,10 +14,9 @@ I’m looking for opportunities to apply machine learning in real-world settings
 ## Let's Connect 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
 <br>
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/loptr)
-<br>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
+- [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/loptr)
 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
 ---
 
 Thanks for visiting my profile! 
