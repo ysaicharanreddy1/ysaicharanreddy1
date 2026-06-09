@@ -1,7 +1,7 @@
 # Hi there, I'm Sai Charan Reddy 👋🏻 
 
 Welcome to my GitHub profile!  
-I'm passionate about technology, coding, and building.
+I'm passionate about coding and building.
 
 ## About Me
 I am a Computer Science student at KL University. I am actively improving my skills in Java DSA while learning AI, ML, and Computer Vision. Currently, I am building projects to strengthen my practical experience.
