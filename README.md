@@ -10,7 +10,6 @@ I’m looking for opportunities to apply machine learning in real-world settings
 
 - [![Resume](https://img.shields.io/badge/Resume-PDF-1E88E5?style=flat&labelColor=4A4A4A)](https://saicharanreddy-mu.vercel.app/My_CV.pdf)
 
-  
 - [![Portfolio](https://img.shields.io/badge/Portfolio-Live-5B7C99?style=flat&logo=vercel&logoColor=white)](https://saicharanreddy-mu.vercel.app/)
 
 ## Let's Connect 
