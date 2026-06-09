@@ -1,6 +1,6 @@
 # Hi there, I'm Sai Charan Reddy 👋🏻 
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile!  
 I'm passionate about technology, coding, and building.
 
 ## About Me
