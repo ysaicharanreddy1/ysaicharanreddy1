@@ -16,5 +16,5 @@ I’m looking for opportunities to apply machine learning in real-world settings
 - [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/loptr)
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
 ---
-
+View pinned repositories for my best projects.
 Thanks for visiting my profile! 
