@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Charan Reddy 👋🏻 
+# Hi there, I'm Sai Charan 👋
 
 Welcome to my GitHub profile!  
 I'm passionate about coding and building.
