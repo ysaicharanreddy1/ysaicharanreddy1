@@ -12,7 +12,6 @@ I’m looking for opportunities to apply machine learning in real-world settings
 
 ## Let's Connect 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesugarisaicharanreddy/)
-
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yesugarisaicharanreddy@gmail.com)
 ---
 View pinned repositories for my best projects.  
